@@ -1,0 +1,9 @@
+{
+    "path" : "~/Saldae_Analytics/SaldaePackages/SaldaeDataExplorer",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

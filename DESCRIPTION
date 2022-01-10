@@ -1,0 +1,32 @@
+Package: SaldaeDataExplorer
+Type: Package
+Title: Saldae Analytics Data Exploration pool  
+Version: 0.1
+Author: Farid Azouaou
+Maintainer: Farid Azouaou <contact@saldaeanalytics.com>
+Description: a set of function which enables to explore the data content  and draw up a preliminary exploratory analysis view
+Imports: 
+      readxl,
+      htmlwidgets,
+      lubridate,
+      rhandsontable,
+      jsonlite,
+      tidyr,
+      forecast,
+      timetk,
+      seastests,
+      plotly,
+      reshape2,
+      DT,
+      readr,
+      dplyr,
+      dlookr,
+      zoo,
+      anomalize,
+      purrr,
+      imputeTS,
+      dygraphs
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2

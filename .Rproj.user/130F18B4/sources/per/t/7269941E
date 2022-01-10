@@ -1,0 +1,24 @@
+{
+    "id": "7269941E",
+    "path": "~/Saldae Platform/SaldaeDataExplorer/R/anomaly_detection_module.R",
+    "project_path": "R/anomaly_detection_module.R",
+    "type": "r_source",
+    "hash": "4242311942",
+    "contents": "",
+    "dirty": false,
+    "created": 1639927260882.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "28,0",
+        "scrollLine": "21"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1639927270,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1639927270070,
+    "read_only": false,
+    "read_only_alternatives": []
+}

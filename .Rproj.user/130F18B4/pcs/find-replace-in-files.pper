@@ -1,0 +1,13 @@
+{
+    "dialog-state": {
+        "query": "<<-",
+        "path": "~/Saldae Platform/SaldaeDataExplorer/R",
+        "regex": false,
+        "caseSensitive": false,
+        "filePatterns": [],
+        "excludeFilePatterns": [],
+        "resultsCount": 2,
+        "errorCount": 0,
+        "replaceErrors": ""
+    }
+}
